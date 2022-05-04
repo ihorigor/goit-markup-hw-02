@@ -125,7 +125,6 @@ body {
 	font-weight: 700;
 	font-size: 16px;
 	line-height: 1.88;
-	cursor: pointer;
 }
 .hero .button:hover,
 .hero .button:focus {
@@ -140,6 +139,7 @@ body {
 	line-height: 1.62;
 	letter-spacing: 0.03em;
 	text-decoration: none;
+	cursor: pointer;
 }
 .button:hover,
 .button:focus {
